@@ -12,7 +12,7 @@ public ActionResult Index()
         new Employee { EmployeeID = 2, EmployeeName = "Hieu", Age = 17 },
         new Employee { EmployeeID = 3, EmployeeName = "Hung", Age = 18 },
     };
-     ViewBag.SNV = StdList.Count();
+     ViewData["Employee"] = StdList;
         return View();
   }
   [HttpGet]

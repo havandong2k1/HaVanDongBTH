@@ -1,2 +1,24 @@
-<h3> View Index</h3>
-<h4>So sinh vien: @ViewBag.ThongtinSV</h4>
+
+@using HaVanDongBTH.Models
+<table class= "table border">
+    <tr>
+        <th>
+            <label>Age</label>
+        </th>
+        <th>
+            <label>Address</label>
+
+        </th>
+        <th>
+            <label>PhoneNumber</label>
+        </th>
+    </tr>
+    @foreach (var item in ViewData["Person"] as List<Person>)
+        {
+          <tr>
+            <td>@item.Age</td>
+            <td>@item.Address</td>
+            <td>@item.PhoneNumber</td>
+          </tr>
+        } 
+</table>

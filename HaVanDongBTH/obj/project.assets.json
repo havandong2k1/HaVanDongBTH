@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HaVanDongBTH\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HaVanDongBTH\\HaVanDongBTH\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "D:\\HaVanDongBTH\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\HaVanDongBTH\\HaVanDongBTH\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\HaVanDongBTH\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\HaVanDongBTH\\HaVanDongBTH\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"

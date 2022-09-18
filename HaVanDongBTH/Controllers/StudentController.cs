@@ -15,10 +15,10 @@ namespace HaVanDongBTH.Controllers
             new Student { StudentID = 3, StudentName = "Nguyen Van C", Age = 33 },
             new Student { StudentID = 4, StudentName = "Nguyen Van D", Age = 20 },
             new Student { StudentID = 5, StudentName = "Nguyen Van E", Age = 34 },
-            new Student{ StudentID = 6, StudentName = "Nguyen Van F", Age = 53 },
+            new Student { StudentID = 6, StudentName = "Nguyen Van F", Age = 53 },
             new Student { StudentID = 7, StudentName = "Nguyen Van G", Age = 19 },
         };
-        ViewBag.DanhsachSV = StdList.Count();
+        ViewData["Student"] = StdList;
             return View();
         
 

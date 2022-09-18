@@ -13,7 +13,7 @@ namespace HaVanDongBTH.Controllers
             new Person { Age = 18, Address = "HaNoi", PhoneNumber = "0821414412" },
             new Person { Age = 18, Address = "HaNoi", PhoneNumber = "0214124412" },
         };
-         ViewBag.ThongtinSV = StdList.Count();
+         ViewData["Person"] = StdList;
             return View();
      }
      [HttpGet]

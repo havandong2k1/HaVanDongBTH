@@ -1,22 +1,23 @@
+
 @using HaVanDongBTH.Models
 <table class= "table border">
     <tr>
         <th>
-            <label>Student ID</label>
+            <label> Employee ID</label>
         </th>
         <th>
-            <label>StudentName</label>
+            <label>EmployeeName</label>
 
         </th>
         <th>
             <label>Age</label>
         </th>
     </tr>
-    @foreach (var item in ViewData["Student"] as List<Student>)
+    @foreach (var item in ViewData["Employee"] as List<Employee>)
         {
           <tr>
-            <td>@item.StudentID</td>
-            <td>@item.StudentName</td>
+            <td>@item.EmployeeID</td>
+            <td>@item.EmployeeName</td>
             <td>@item.Age</td>
           </tr>
         } 
