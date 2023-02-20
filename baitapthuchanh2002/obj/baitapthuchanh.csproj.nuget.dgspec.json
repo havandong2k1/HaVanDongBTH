@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\HaVanDongBTH\\baitapthuchanh\\baitapthuchanh.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\HaVanDongBTH\\baitapthuchanh2002\\baitapthuchanh.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\HaVanDongBTH\\baitapthuchanh\\baitapthuchanh.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\HaVanDongBTH\\baitapthuchanh2002\\baitapthuchanh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HaVanDongBTH\\baitapthuchanh\\baitapthuchanh.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HaVanDongBTH\\baitapthuchanh2002\\baitapthuchanh.csproj",
         "projectName": "baitapthuchanh",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\HaVanDongBTH\\baitapthuchanh\\baitapthuchanh.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\HaVanDongBTH\\baitapthuchanh2002\\baitapthuchanh.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\HaVanDongBTH\\baitapthuchanh\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\HaVanDongBTH\\baitapthuchanh2002\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
