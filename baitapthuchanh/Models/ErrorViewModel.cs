@@ -1,4 +1,4 @@
-namespace HaVanDongBTH.Models;
+namespace baitapthuchanh.Models;
 
 public class ErrorViewModel
 {

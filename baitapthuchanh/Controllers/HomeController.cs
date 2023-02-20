@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using HaVanDongBTH.Models;
+using baitapthuchanh.Models;
 
-namespace HaVanDongBTH.Controllers;
+namespace baitapthuchanh.Controllers;
 
 public class HomeController : Controller
 {
