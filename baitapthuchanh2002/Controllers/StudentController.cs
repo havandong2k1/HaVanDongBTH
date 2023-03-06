@@ -7,9 +7,13 @@ namespace baitapthuchanh2002.Controllers
         public IActionResult Index()
         {
             return View();
+
         }
-        public IActionResult About()
+        [HttpPost]
+        public IActionResult Index(string FullName)
         {
+           string strReturn = "Hello" + FullName;
+            ViewBag.abc = strReturn;
             return View();
         }
     }
