@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using baithuchanh2003.Modles;
+using baithuchanh2003.Models;
 
 namespace baithuchanh2003.Controllers;
 
