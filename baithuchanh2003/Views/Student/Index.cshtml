@@ -1,0 +1,35 @@
+@model IEnumerable<baithuchanh2003.Models.Student>
+   
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<link rel="stylesheet" href="~/css/W3.css" asp-append-version="true" />
+    <p>
+        <a class="btn btn-success" asp-action="Create"> Them moi </a>
+    </p>
+    <div class="w3-container" >
+<table class="table table-all" >
+    <h1  >Bảng Student</h1>
+    <tr>
+        <th>Student ID</th>
+   
+        <th>FullName</th>
+        <th>Address</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+         <tr>
+            <td class="w3-hover-red" >@Html.DisplayFor(m => item.StudentCode)</td>
+             <td class="w3-hover-black">@Html.DisplayFor(m => item.FullName)</td>
+             <td class="w3-hover-blue" >  @Html.DisplayFor(m => item.Address)</td>
+        </tr>
+        
+    }
+</table>
+</div>
+
+</body>
+</html> 

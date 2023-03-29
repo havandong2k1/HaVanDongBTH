@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "J2uUjO0+TILzfEvRIqDOm6gk5a7NDTetQH9J3OU2rlA=",
+  "Hash": "cJWFU+wWc1YcFg6ERtMBjuT/Mg5xZ7QBcCqdcop7eY0=",
   "Source": "baithuchanh2003",
   "BasePath": "_content/baithuchanh2003",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\HaVanDongBTH\\baithuchanh2003\\wwwroot\\css\\W3.css",
+      "SourceId": "baithuchanh2003",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\HaVanDongBTH\\baithuchanh2003\\wwwroot\\",
+      "BasePath": "_content/baithuchanh2003",
+      "RelativePath": "css/W3.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\W3.css"
     },
     {
       "Identity": "C:\\Users\\ADMIN\\Desktop\\HaVanDongBTH\\baithuchanh2003\\wwwroot\\favicon.ico",

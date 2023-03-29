@@ -1,0 +1,23 @@
+@model IEnumerable<baithuchanh2003.Modles.Customer>
+    <p>
+        <a class="btn btn-success" asp-action="Create"> Them moi </a>
+    </p>
+<table class="w3-table-all w3-card-4" >
+    <tr>
+        <th> Customer ID</th>
+        <th>FullName</th>
+        <th>Address</th>
+        <th>Phone </th>
+    </tr>
+    @foreach (var item in Model)
+        {
+            <tr>
+             <td>@Html.DisplayFor(m => item.CustomerID)</td>
+             <td>@Html.DisplayFor(m => item.FullName)</td>
+             <td>@Html.DisplayFor(m => item.Address)</td>
+             <td>@Html.DisplayFor(m => item.PhoneNumber)</td>
+
+
+        </tr>
+    }
+</table>

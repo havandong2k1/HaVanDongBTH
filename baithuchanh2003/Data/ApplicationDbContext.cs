@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using baithuchanh2003.Models;
+using baithuchanh2003.Modles;
 
 namespace baithuchanh2003.Data
 {
@@ -9,5 +10,7 @@ namespace baithuchanh2003.Data
         {
         }
         public DbSet<Student> Students {get; set;} 
+        public DbSet<Employee> Employees {get; set;}
+         public DbSet<Customer> Customers {get; set;}
     }
 }
