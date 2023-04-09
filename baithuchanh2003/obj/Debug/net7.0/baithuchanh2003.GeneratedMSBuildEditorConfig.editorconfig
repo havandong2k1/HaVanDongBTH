@@ -9,61 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = baithuchanh2003
 build_property.RootNamespace = baithuchanh2003
-build_property.ProjectDir = C:\Users\ADMIN\Desktop\HaVanDongBTH\baithuchanh2003\
+build_property.ProjectDir = c:\Users\ADMIN\Desktop\HaVanDongBTH\baithuchanh2003\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ADMIN\Desktop\HaVanDongBTH\baithuchanh2003
+build_property.MSBuildProjectDirectory = c:\Users\ADMIN\Desktop\HaVanDongBTH\baithuchanh2003
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Customer/Create.cshtml]
+[c:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Customer/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Customer/Index.cshtml]
+[c:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Employee/Create.cshtml]
+[c:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Employee/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Employee/Index.cshtml]
+[c:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Employee/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Home/Index.cshtml]
+[c:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Home/Privacy.cshtml]
+[c:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Shared/Error.cshtml]
+[c:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Student/Create.cshtml]
+[c:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Student/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Student/Index.cshtml]
+[c:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/_ViewImports.cshtml]
+[c:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/_ViewStart.cshtml]
+[c:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Shared/_Layout.cshtml]
+[c:/Users/ADMIN/Desktop/HaVanDongBTH/baithuchanh2003/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-p05o9bzix6
