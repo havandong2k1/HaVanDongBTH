@@ -12,5 +12,6 @@ namespace baithuchanh2003.Data
         public DbSet<Student> Students {get; set;} 
         public DbSet<Employee> Employees {get; set;}
          public DbSet<Customer> Customers {get; set;}
+          public DbSet<Faculty> Faculty {get; set;}
     }
 }
