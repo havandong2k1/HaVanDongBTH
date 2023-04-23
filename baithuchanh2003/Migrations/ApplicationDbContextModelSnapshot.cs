@@ -16,6 +16,20 @@ namespace baithuchanh2003.Migrations
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "7.0.4");
 
+            modelBuilder.Entity("baithuchanh2003.Models.Faculty", b =>
+                {
+                    b.Property<string>("FacultyID")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("FullName")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("FacultyID");
+
+                    b.ToTable("Faculty");
+                });
+
             modelBuilder.Entity("baithuchanh2003.Models.Student", b =>
                 {
                     b.Property<string>("StudentCode")
